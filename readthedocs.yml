@@ -1,6 +1,6 @@
 version: 2
 formats:
-    - none
+    - htmlzip
 build:
     image: latest
 python:
