@@ -1,0 +1,10 @@
+formats:
+    - none
+build:
+    image: latest
+python:
+   version: 3.7
+   - method: pip
+     path: .
+     extra_requirements:
+       - dev
